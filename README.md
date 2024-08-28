@@ -1,4 +1,4 @@
-# Créer des raccourcis pour ` Arrêter ` et ` redémarer ` un Ordinateur
+# Créer des raccourcis pour ` Arrêter ` et ` redémarer ` un ordinateur
 
 Par ce qu'on est des Geek... voir des Nerds et qu'on n'a pas l'time.  
 Voici un tutoriel pour créer des raccourcis à mettre dans la barre des tâches.  
