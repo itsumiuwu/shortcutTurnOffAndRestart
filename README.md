@@ -80,7 +80,8 @@ Voila les raccourcis sont créés et intégré dans la barre des tâches et dans
 
 ## Bonus :
 
-Dans le menu démarrer les icônes se trouvent à la fin. Autant les mettre en premier pour ne pas avoir à les chercher.  
+Dans le menu démarrer les icônes se trouvent à la fin.  
+Autant les mettre en premier pour ne pas avoir à les chercher.  
 Pour un ordre plus logique commencer par le raccourci de redémarage.  
 15 - clique droite sur le raccourci  
 16 - puis cliquer sur ` Placer en début `  
