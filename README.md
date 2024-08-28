@@ -67,7 +67,7 @@ Voila le raccourci est créé et intégré dans la barre des tâches et dans le 
 
 Pour cela il suffit de suivre le tutoriel plus haut ` Créer le raccourci pour arrêter l'ordinateur : `  
 en faisant attention sur les étapes ` 3 `, ` 5 ` et ` le chois de l'icône `  
-` 3 ` : l'` Entrez l'emplacement de l'élément ` maintenent est  ` shutdown -r -t 0 `  
+` 3 ` : pour la partie ` Entrez l'emplacement de l'élément ` écrir : ` shutdown -r -t 0 `  
 ` 5 ` : le nom de l'icône est quant à lui ` Restart `, ` Redémarrer `, ou que sais-je comme vous le souhaitez  
 ` le chois de l'icône ` : coisir votre icône de redémarage (pour l'exemple : ` recharger.ico ` )
 
@@ -75,10 +75,11 @@ Voila les raccourcis sont créés et intégré dans la barre des tâches et dans
 
 ## Bonus :
 
-Dans le menu démarrer les icônes se trouvent à la fin autant les mettre en premier pour ne pas avoir à les chercher.  
-Pour un ordre plus logique commencer par le raccourci d'arrêt puis refire les manipulations ` 15 ` et ` 16 ` pour celui de redémarage.  
+Dans le menu démarrer les icônes se trouvent à la fin. Autant les mettre en premier pour ne pas avoir à les chercher.  
+Pour un ordre plus logique commencer par le raccourci de redémarage.  
 15 - clique droite sur le raccourci  
-16 - puis cliquer sur ` Placer en début `
+16 - puis cliquer sur ` Placer en début `  
+Puis refire les manipulations ` 15 ` et ` 16 ` pour celui d'arrêt.
 
 ![image 011 tuto shortcut Turn Off And Restart](https://raw.githubusercontent.com/itsumiuwu/shortcutTurnOffAndRestart/main/public/img/shutdown_011.png)
 
