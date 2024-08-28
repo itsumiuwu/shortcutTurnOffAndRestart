@@ -1,5 +1,7 @@
 # Créer des raccourcis pour ` Arrêter ` et ` redémarer ` un Ordinateur
 
+( :computer: Windows 11 [^*] )
+
 ## Créer un raccourci pour arrêter l'ordinateur :
 
 0 - cliquer droit sur le bureau  
@@ -13,7 +15,7 @@
 
 ![image 001 tuto shortcut Turn Off And Restart](https://raw.githubusercontent.com/itsumiuwu/shortcutTurnOffAndRestart/main/public/img/shutdown_001.png)
 
-5 - dans le champ ` Entrez un nom pour le raccourci : ` entrer le nom souhaité (exemple : ` Arrêter `, ` Stop ` ...)  
+5 - dans le champ ` Entrez un nom pour le raccourci : ` entrer le nom souhaité ( exemple : ` Arrêter `, ` Stop ` ... )  
 6 - cliquer sur ` Terminer `
 
 ![image 002 tuto shortcut Turn Off And Restart](https://raw.githubusercontent.com/itsumiuwu/shortcutTurnOffAndRestart/main/public/img/shutdown_002.png)
@@ -90,3 +92,9 @@ félicitation vous avez de jolis nouveaux boutons bien pratiques comme le montre
 :warning: Attention à ne pas faire d'erreur de clique dessus...
 
 :octocat: __Pe@cE__
+
+[^*]: pour Windows 8 ou 10  
+il faut écrire ` shutdown /s /t 0 ` et ` shutdown /r /t 0 ` pour l'étape ` 3 `  
+pour les boutons respectif ` s => arrêt ` et ` r => redémarage ` et  
+lors de l'étape ` 11 ` il faut penser à l'` épingler à la barre des tâches `  
+comme dans ` l’écran de démarrage ` ce qui évite la manipulation de gliser dans la barre des tâches
