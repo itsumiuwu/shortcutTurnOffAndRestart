@@ -1,5 +1,8 @@
 # Créer des raccourcis pour ` Arrêter ` et ` redémarer ` un Ordinateur
 
+Par ce qu'on est des Geek... voir des Nerds et qu'on n'a pas l'time.  
+Voici un tutoriel pour créer de raccourcis à mettre dans la barre des tâche.  
+Parce que trop long ` Démarrer `=>` Marche/Arrêt `=>` Arrêter ` ou  ` Redémarrer `.  
 ( :computer: Windows 11 [^*] )
 
 ## Créer un raccourci pour arrêter l'ordinateur :
