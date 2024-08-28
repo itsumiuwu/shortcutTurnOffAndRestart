@@ -52,6 +52,7 @@ on peut voir que l'icône est bien changée, puis cliquez sur ` OK `
 
 le raccourci est créé
 
+les étapes ` 11 ` et ` 12 ` sont facultatives
 11 - faire un clique droit sur ce dernier  
 12 - cliquer sur ` Épingler au menu démarrer `
 
